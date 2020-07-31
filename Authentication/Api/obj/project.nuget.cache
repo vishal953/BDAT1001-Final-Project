@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qhsUcRL9A0SZmcvoqxxHAxgIJ+01xUr7Bp2UozCQmTVVcY4q84ALTuWlorLxF0FpbUqmFoL9LFj0cOufAPf5Hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vishal Tizoriwala\\Desktop\\Authentication\\Authentication\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vishal Tizoriwala\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
